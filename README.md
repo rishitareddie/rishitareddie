@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishita Reddy</h1>
 <h3 align="center">Hello from India!</h3>
-<img align="right" alt="Coding" width="400" src="<iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif">
 
 - 🌱 I’m currently learning **Machine learning**
 
